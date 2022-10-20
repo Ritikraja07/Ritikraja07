@@ -1,7 +1,7 @@
 - # 💫 About Me:
 🔭 I’m Currently working on to develop skill.<br>🌱 I’m currently A student  at Bengal college of engineering and technology.<br>🤔 Currently I am not Working.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3MdTCSs<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coding, Reading Novel's 
 
-
+[![@ritikraja07's Holopin board](https://holopin.me/ritikraja07)](https://holopin.io/@ritikraja07)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-raja-0701r221) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ritik.rock121) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ritik-Raja-11) 
 
