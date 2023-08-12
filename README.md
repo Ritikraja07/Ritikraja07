@@ -15,6 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritikraja07&label=Profile%20views&color=0e75b6&style=flat" alt="Ritikraja07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ritikraja07" alt="Ritikraja07" /></a> </p>
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
