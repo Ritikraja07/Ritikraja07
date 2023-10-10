@@ -4,7 +4,7 @@
 <br><h3>- # 💫 About Me:</h3>
 🔭Currently  I’m  working on to develop skills.<br>🌱  A student  at Bengal college of engineering and technology.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3MdTCSs<br>😄 Pronouns: He/His
 
-[![An image of @ritikraja07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikraja07)](https://holopin.io/@ritikraja07
+[![An image of @ritikraja07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikraja07)](https://holopin.io/@ritikraja07)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-raja-0701r221) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ritik.rock121) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ritik-Raja-11) 
