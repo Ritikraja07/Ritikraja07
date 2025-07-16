@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <br><h3>- # 💫 About Me:</h3>
-🔭Currently  I’m  working on to develop skills.<br>🌱  A student  at Bengal college of engineering and technology.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3MdTCSs<br>😄 Pronouns: He/His
+🔭Currently  I’m  working on to develop skills.<br>🌱  A student  at Bengal college of engineering and technology.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/4eRbNf7<br>😄 Pronouns: He/His
 
 [![An image of @ritikraja07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikraja07)](https://holopin.io/@ritikraja07)
 
