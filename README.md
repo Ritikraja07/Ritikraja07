@@ -4,9 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Java+%2B+React;Building+Scalable+Web+Applications;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Frontend+Magic+with+React+%26+Next.js;Open+Source+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik%20Raja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraja/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-ritik.rock121%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ritik.rock121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraja/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ritik.rock121@gmail.com)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ritikraja07/)
+&nbsp;
 <!-- &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://bit.ly/4eRbNf7)
 
@@ -56,54 +59,6 @@
 
 I'm a **Full Stack Developer** passionate about building **scalable, high-performance web applications**. With expertise spanning **Java Spring Boot** backends and **React** frontends, I transform complex problems into elegant solutions. My work has **optimized systems by 40%** and maintained **99% uptime** in production environments.
 
-#### 💎 What I Bring to the Table
-
-<table>
-<tr>
-<td>
-
-**🔧 Backend Mastery**
-- Spring Boot & Hibernate
-- RESTful API Design
-- Microservices Architecture
-- Database Optimization
-- Java 8+ Best Practices
-
-</td>
-<td>
-
-**🎨 Frontend Excellence**
-- React.js & Next.js
-- Modern JavaScript (ES6+)
-- Responsive UI/UX Design
-- TailwindCSS & Bootstrap
-- Performance Optimization
-
-</td>
-</tr>
-<tr>
-<td>
-
-**💾 Data Management**
-- MySQL & MongoDB
-- Oracle Database
-- Query Optimization (40% improvement)
-- Database Design
-- ORM (Hibernate/JPA)
-
-</td>
-<td>
-
-**🛠️ Professional Tools**
-- Git/GitHub Workflows
-- Agile/Scrum Methodology
-- Postman API Testing
-- Jira Project Management
-- VS Code & Eclipse
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
@@ -193,6 +148,8 @@ Real-time data visualization platform
 
 </div>
 
+<!--
+
 ### 🎯 What I Do
 
 🔭 **Currently Building:** Spring Boot microservices & AI-powered web applications  
@@ -208,6 +165,8 @@ Real-time data visualization platform
 🎯 Mentored **3000+ students** through technical workshops and code reviews  
 ✅ Achieved **100% on-time delivery** across all sprint cycles
 
+
+-->
 <div align="center">
 
 **💼 Professional Philosophy**
@@ -225,127 +184,89 @@ Real-time data visualization platform
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#6366f1','primaryTextColor':'#fff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','secondaryColor':'#ec4899','tertiaryColor':'#14b8a6','fontSize':'16px'}}}%%
 timeline
-    title My Career Timeline
-    2021-2025 : Bengal College of Engineering & Technology
-              : B.Tech Computer Science (CGPA 8.29)
-    Jul 2024 : AICT Pvt. Ltd.
-             : Full-Stack Developer Intern
-             : React • Node.js • MongoDB
-    Jun 2024 : Celebal Technologies
-             : Frontend Developer Intern
-             : React.js • REST APIs • Agile
-    Jun 2025 : CodeForSuccess
-             : Java Developer Intern
-             : Spring Boot • Hibernate • MySQL
-    Future : Your Amazing Company? 🚀
-           : Let's Build Something Great Together!
+    title 💼 My Professional Journey
+    
+    section Education
+        2021-2025 : 🎓 Bengal College of Engineering & Technology
+                  : B.Tech in Computer Science
+                  : CGPA 8.29/10
+    
+    section Internships
+        Jul 2024 : 💻 AICT Pvt. Ltd.
+                 : Full-Stack Developer Intern
+                 : React.js • Node.js • MongoDB • Express
+        
+        Jun 2024 : 🎨 Celebal Technologies
+                 : Frontend Developer Intern
+                 : React.js • REST APIs • Agile Methodology
+        
+        Jun 2025 : ☕ CodeForSuccess
+                 : Java Developer Intern
+                 : Spring Boot • Hibernate • MySQL • JPA
+    
+    section Future
+        2026 : 🚀 Your Amazing Company?
+             : Let's Build Something Great Together!
+             : Open to Full-Time Opportunities
 ```
 
 </div>
+
+### 💻 Java Developer Intern @ CodeForSuccess
+**📅 June 2025 - November 2025** | **📍 Remote**
 
 <div align="left">
 
-### 💻 Java Developer Intern @ [CodeForSuccess](https://codeforsuccess.com)
-**📅 June 2025 - November 2025** | **📍 Remote**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java_8-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+- 🚀 Developed **3 RESTful APIs** using Spring Boot and Hibernate, handling 500+ daily requests
+- ⚡ Optimized SQL queries achieving **40% performance improvement** through strategic indexing
+- 🗄️ Designed and implemented **8 database tables** with proper normalization in MySQL
+- 🔧 Eliminated N+1 query problems using Hibernate ORM for efficient data fetching
 
-#### 🎯 What I Built
+---
 
-```java
-@RestController
-@RequestMapping("/api")
-public class Achievements {
-    
-    // 3 Production RESTful APIs
-    @GetMapping("/metrics")
-    public ApiMetrics getMetrics() {
-        return new ApiMetrics(
-            apis: 3,
-            dailyRequests: 500+,
-            uptime: 99%,
-            dbTables: 8
-        );
-    }
-}
-```
+### 🎨 Frontend Developer Intern @ Celebal Technologies
+**📅 June 2024 - August 2024** | **📍 Remote**
 
-</td>
-<td width="50%">
+<div align="left">
 
-#### 🚀 Impact Delivered
-
-**Performance & Scale**
-- ⚡ **40% faster** SQL queries through strategic indexing
-- 🎯 **500+ requests/day** with 99% uptime
-- 💾 **8 database tables** with full CRUD operations
-
-**Technical Excellence**
-- 🔧 Eliminated N+1 query patterns using Hibernate ORM
-- 🏗️ Built scalable RESTful APIs with Spring Boot
-- ✨ Implemented proper database normalization
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🔑 Key Technologies:** Spring Boot • Hibernate ORM • MySQL • Java 8 • REST APIs • JPA • Microservices
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
----
-
-### 🎨 **Frontend Developer Intern** @ Celebal Technologies | *June 2024 - August 2024*
-
-```javascript
-const achievements = {
-  fullStackApp: "File Transfer Application used by 3+ teams",
-  performance: "30% faster response time with code splitting",
-  delivery: "100% on-time sprint delivery",
-  methodology: "Agile/Scrum",
-  tools: ["React.js", "REST APIs", "Git/GitHub"]
-};
-```
-
-**Key Contributions:**
-- 📦 Built full-stack **File Transfer Application** adopted by **3+ cross-functional teams**
-- 🎯 Achieved **100% on-time sprint delivery** in Agile environment
-- ⚡ Reduced response time by **30%** using code splitting and lazy loading
+- 📦 Built a **File Transfer Application** adopted by **3+ cross-functional teams**
+- ⚡ Improved response time by **30%** through code splitting and lazy loading techniques
+- 🎯 Achieved **100% on-time sprint delivery** in Agile/Scrum environment
+- 🔄 Integrated REST APIs for seamless data communication
 
 ---
 
-### 🔧 **Full-Stack Developer Intern** @ AICT Pvt. Ltd. | *July 2024 - August 2024*
+### 🔧 Full-Stack Developer Intern @ AICT Pvt. Ltd.
+**📅 July 2024 - August 2024** | **📍 Remote**
 
-```typescript
-interface ProjectMetrics {
-  modules: 2;
-  sprints: 4;
-  techStack: ["React JS", "Node.js", "MongoDB"];
-  testing: {
-    components: 15,
-    coverage: "100%",
-    breakpoints: 5
-  };
-}
-```
+<div align="left">
 
-**Key Contributions:**
-- 🏗️ Delivered **2 production modules** in **4 sprints** using React, Node.js, and MongoDB
-- ✅ Executed manual testing across **15+ UI components** ensuring **100% functionality**
-- 📱 Validated responsiveness on **5+ device breakpoints** for consistent UX
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</div>
+
+- 🏗️ Delivered **2 production-ready modules** across 4 sprints using MERN stack
+- ✅ Conducted comprehensive testing of **15+ UI components** ensuring 100% functionality
+- 📱 Implemented responsive design across **5+ device breakpoints** for optimal user experience
+- 👥 Collaborated with team using Git for efficient version control
 
 ---
 
@@ -640,12 +561,15 @@ const currentFocus = {
 ---
 -->
 
-
+<!--
 ## 📝 Latest Blog Posts & Articles
 
 <div align="center">
 
+-->
+
 <!-- BLOG-POST-LIST:START -->
+<!--
 ### 📚 Check out my technical writing on Medium!
 
 I write about:
@@ -657,11 +581,9 @@ I write about:
 
 [![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ritik.rock121)
 
-<!-- BLOG-POST-LIST:END -->
 
 </div>
-
----
+-->
 
 ## 💭 Daily Dev Wisdom
 
@@ -676,6 +598,7 @@ I write about:
 </div>
 
 ---
+
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -699,6 +622,8 @@ I write about:
 [![Medium](https://img.shields.io/badge/Medium-Follow_Me-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ritik.rock121)
 [![Quora](https://img.shields.io/badge/Quora-Ask_Me-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Ritik-Raja-11)
 
+
+<!--
 ### ☕ Support My Work
 
 If you like my projects and find them helpful, consider buying me a coffee! ☕
@@ -710,6 +635,7 @@ If you like my projects and find them helpful, consider buying me a coffee! ☕
 ---
 
 <div align="center">
+
 
 ### 🎨 Fun Zone
 
@@ -738,3 +664,5 @@ Made with ❤️, ☕, and countless hours of debugging by **Ritik Raja**
 *Last Updated: January 2025*
 
 </div>
+
+-->
