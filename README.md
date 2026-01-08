@@ -339,8 +339,8 @@ Real-time object detection with in-browser ML inference
 
 **Tech Highlights:** WebRTC, TensorFlow.js, Next.js
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://github.com/Ritikraja07)
-[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://object-detection-final-year-project.vercel.app/)
+[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07/Object-detection-project)
 
 </td>
 <td width="50%">
@@ -356,8 +356,8 @@ Modern real estate web application with smooth animations
 
 **Tech Highlights:** Framer Motion, Responsive Design
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://github.com/Ritikraja07)
-[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://real-estate-homyz-pied.vercel.app/)
+[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07/Real-Estate-Homyz-)
 
 </td>
 </tr>
@@ -376,8 +376,8 @@ Pixel-perfect animated website with advanced interactions
 
 **Tech Highlights:** Advanced Animations, UX Design
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://github.com/Ritikraja07)
-[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://refokus-website-clone-eight.vercel.app/)
+[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07/Refokus_Website)
 
 </td>
 <td width="50%">
@@ -393,8 +393,8 @@ Modern e-commerce platform with optimized UX
 
 **Tech Highlights:** Performance Optimization, SEO
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://github.com/Ritikraja07)
-[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://fresh-mart-ecru.vercel.app/)
+[![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/Ritikraja07/FreshMart)
 
 </td>
 </tr>
