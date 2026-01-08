@@ -490,11 +490,15 @@ Modern e-commerce platform with optimized UX
 ### 📈 Contribution Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritikraja07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraja07&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikraja07&theme=tokyonight&hide_border=true" /> 
+
+<!--
 
 ### 💻 Coding Activity
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikraja07&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=repo1,repo2" />
+
+-->
 
 ### 📉 Contribution Graph
 
@@ -510,7 +514,7 @@ Modern e-commerce platform with optimized UX
 
 [![Holopin Badges](https://holopin.me/ritikraja07)](https://holopin.io/@ritikraja07)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ritikraja07&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=Ritikraja07&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15) -->
 
 </div>
 
@@ -525,6 +529,7 @@ Modern e-commerce platform with optimized UX
 
 </div>
 
+<!--
 ### 📊 Impact Metrics
 
 ```yaml
@@ -536,7 +541,7 @@ Career Highlights:
   Team Collaboration: "100% on-time delivery"
   Testing Coverage: "100% component functionality"
 ```
-
+-->
 ---
 
 ## 👨‍🏫 Leadership & Community
@@ -550,6 +555,7 @@ Career Highlights:
 
 </div>
 
+<!--
 ```python
 class MentorshipImpact:
     def __init__(self):
@@ -568,6 +574,7 @@ class MentorshipImpact:
     def calculate_impact(self):
         return f"Impacted {self.total_reach}+ students"
 ```
+-->
 
 **🌟 Key Responsibilities:**
 - 📚 Conducted **10+ technical workshops** with **300+ participants** each
@@ -595,7 +602,7 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 </div>
 
 ---
-
+<!--
 ## 🎯 What I'm Currently Up To
 
 <div align="center">
@@ -631,6 +638,8 @@ const currentFocus = {
 </div>
 
 ---
+-->
+
 
 ## 📝 Latest Blog Posts & Articles
 
