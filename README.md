@@ -7,14 +7,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritik%20Raja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraja/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-ritik.rock121%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ritik.rock121@gmail.com)
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://bit.ly/4eRbNf7)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritikraja07&label=Profile%20Views&color=2563EB&style=for-the-badge)
 
-
+-->
 </div>
 
 ## 🚀 About Me
